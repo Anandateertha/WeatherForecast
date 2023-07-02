@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+.wrapper
+{
+    margin-left: 90px;
+    font-family: 'Agdasima', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
