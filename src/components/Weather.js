@@ -29,7 +29,7 @@ export class Weather extends Component {
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': 'a5a78d2ba7msh33e84eef09d7e46p1d8b33jsn21f5711cd129',
+                'X-RapidAPI-Key': 'API KEy',
                 'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
             }
         };
